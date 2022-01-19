@@ -8,7 +8,8 @@ export interface Data {
 export interface Child {
     data: {
         title: string;
-        thumnail: string;
+        thumbnail: string;
+        permalink: string;
     };
     
 
